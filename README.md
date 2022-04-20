@@ -11,10 +11,10 @@ The platform supports multiple languages, privileges segregation, changes tracki
 
 ![image](https://user-images.githubusercontent.com/27485415/164268448-9d0f4681-1e1c-402a-a2ea-dd05cb14c606.png)
 
-The picture above shows the difference when a normal users logs in, where the only possibility to do something is the recording of jobs that has been performed by them during different days. 
+The picture above shows the difference when a normal users logs in, where the only possibility to do something is the recording of jobs that have been performed by them during different days. 
 
 ![image](https://user-images.githubusercontent.com/27485415/164269152-501fdbad-46ab-4127-948c-ec8526f2bed1.png)
 
 ![image](https://user-images.githubusercontent.com/27485415/164269255-e1498de0-2e05-4693-bf17-1fd51e5882ea.png)
 
-Employee management and contracts addition showed in the pictures above where we can see that the platform offers a wide variety of processes which can be performed. 
+Employee management and contracts addition are shown in the pictures above, where we can see that the platform offers a wide variety of processes which can be performed. 
