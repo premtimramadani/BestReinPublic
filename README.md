@@ -3,7 +3,7 @@ This is for presenting purposes only, the code behind this project is private.
 
 ![image](https://user-images.githubusercontent.com/27485415/164267186-911773e3-b99e-4b39-8e51-976dc7d2b9f8.png)
 
-A platform for managing a business daily processes (work performed by users registration, bill generation, contracts managing, employee managing etc), that is currently in development. It is being developed in ASP.Net Core and uses Identity for authentication, authorization purposes.  
+A platform for managing a business daily processes (work performed by users registration, bill generation, contracts managing, employee managing etc), that is currently in development. It is being developed in ASP.Net Core and uses Identity for authentication and authorization purposes. The database behind the platform is SQL.   
 
 ![image](https://user-images.githubusercontent.com/27485415/164267775-1d71c85d-2532-410e-87d6-dacca751562f.png)
 
