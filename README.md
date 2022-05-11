@@ -15,6 +15,6 @@ The picture above shows the difference when a normal users logs in, where the on
 
 ![image](https://user-images.githubusercontent.com/27485415/167901198-01e19049-cf45-4f0a-b265-0dcd857a77dc.png)
 
-![image](https://user-images.githubusercontent.com/27485415/164269255-e1498de0-2e05-4693-bf17-1fd51e5882ea.png)
+![image](https://user-images.githubusercontent.com/27485415/167901313-f2cf188e-8d5a-47f7-8aac-87b323121b48.png)
 
 Employee management and contracts addition are shown in the pictures above, where we can see that the platform offers a wide variety of processes which can be performed. 
