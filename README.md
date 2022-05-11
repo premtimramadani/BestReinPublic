@@ -1,7 +1,7 @@
 # BestReinPublic
 This is for presenting purposes only, the code behind this project is private. 
 
-![image](https://user-images.githubusercontent.com/27485415/164267186-911773e3-b99e-4b39-8e51-976dc7d2b9f8.png)
+![image](https://user-images.githubusercontent.com/27485415/167900909-2f6043a7-d9d5-4bc3-811c-902cd62302bb.png)
 
 A platform for managing a business daily processes (work performed by users registration, bill generation, contracts managing, employee managing etc), that is currently in development. It is being developed in ASP.Net Core and uses Identity for authentication and authorization purposes. The database behind the platform is SQL.   
 
