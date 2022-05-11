@@ -13,7 +13,7 @@ The platform supports multiple languages, privileges segregation, changes tracki
 
 The picture above shows the difference when a normal users logs in, where the only possibility to do something is the recording of jobs that have been performed by them during different days. 
 
-![image](https://user-images.githubusercontent.com/27485415/164269152-501fdbad-46ab-4127-948c-ec8526f2bed1.png)
+![image](https://user-images.githubusercontent.com/27485415/167901198-01e19049-cf45-4f0a-b265-0dcd857a77dc.png)
 
 ![image](https://user-images.githubusercontent.com/27485415/164269255-e1498de0-2e05-4693-bf17-1fd51e5882ea.png)
 
